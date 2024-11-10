@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.photos{
+
+width: 100%;
+
+background-color: teal;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+row-gap: 25px;
+column-gap: 25px;
+}
+
+.photo{
+
+width: 30%;
+height: 400px;
+
+}
